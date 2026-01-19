@@ -99,3 +99,10 @@ pip install aiohttp dnspython certifi beautifulsoup4 playwright python-whois
 
 # Install Playwright browser
 playwright install chromium
+## ▶️ Usage
+
+The scanner is designed to be simple to run while performing complex analysis in the background.
+
+```bash
+# Run the scanner
+python scanner.py
